@@ -1,5 +1,8 @@
 # Flash&Etc
 
+> "A arte é a auto-expressão lutando para ser absoluta."
+> **Fernando Pessoa**
+
 ##O que tem aqui?
 
 - ~~HTML (não o 5)~~
@@ -23,6 +26,3 @@
 
 - Repositório criado ontem
 - ~~Aceitamos~~ Aceito contribuidores
-
-"A arte é a auto-expressão lutando para ser absoluta."
-**Fernando Pessoa**
